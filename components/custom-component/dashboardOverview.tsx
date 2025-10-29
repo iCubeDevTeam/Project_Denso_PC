@@ -13,7 +13,7 @@ import SelectCustom from './selectCustom';
 import { Button } from '@/components/ui/button';
 
 export default function DashboardOverview() {
-    const number = 6;
+    const number = 7;
 
     const [fruit, setFruit] = useState("")
 
